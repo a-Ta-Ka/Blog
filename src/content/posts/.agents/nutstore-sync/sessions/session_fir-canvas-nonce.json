@@ -1,0 +1,21 @@
+{
+  "session": {
+    "schemaVersion": 2,
+    "id": "session_fir-canvas-nonce",
+    "createdAt": 1788616888478,
+    "updatedAt": 1788616888478,
+    "subagents": {
+      "master": {
+        "id": "master",
+        "type": "master",
+        "status": "idle",
+        "createdAt": 1788616888478,
+        "timeline": [],
+        "pendingInputs": [],
+        "operations": {},
+        "toolTimings": {},
+        "subagents": {}
+      }
+    }
+  }
+}

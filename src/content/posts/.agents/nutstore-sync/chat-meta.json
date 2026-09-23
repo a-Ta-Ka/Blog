@@ -1,0 +1,13 @@
+{
+  "activeSessionId": "session_fir-canvas-nonce",
+  "orderedSessionIds": [
+    "session_fir-canvas-nonce"
+  ],
+  "sessions": {
+    "session_fir-canvas-nonce": {
+      "title": "新对话",
+      "createdAt": 1788616888478,
+      "updatedAt": 1788616888478
+    }
+  }
+}
